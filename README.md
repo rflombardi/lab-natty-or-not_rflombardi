@@ -32,7 +32,7 @@ Utilizei o Copilot do windows 11 que utilizou a plataforma DALL-E 3
 Solicitei a IA que gerasse uma nova logo marca para a DIO usando como referencia linguagens de programação.
 
 ## 🚀 Resultados
-![Logo DIO](https://github.com/user-attachments/assets/2e38a19e-e100-48db-a3b1-9c0fd193c044)
+[Nova Logo DIO](https://github.com/rflombardi/lab-natty-or-not_rflombardi/blob/main/Logo%20DIO.png)
 
 ## 💭 Reflexão (Opcional)
 Criar algo “natty” (natural, autêntico e genuíno) com inteligência artificial (IA) é um desafio fascinante. A IA, por sua natureza, é baseada em algoritmos e dados, e muitas vezes produz resultados previsíveis. No entanto, alcançar autenticidade e naturalidade requer uma abordagem mais criativa e humana.
