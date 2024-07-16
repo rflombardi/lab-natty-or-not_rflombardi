@@ -20,29 +20,22 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Nova Logo DIO ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Uma atualização da logo da DIO
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Utilizei o Copilot do windows 11 que utilizou a plataforma DALL-E 3
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Solicitei a IA que gerasse uma nova logo marca para a DIO usando como referencia linguagens de programação.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+![Logo DIO](https://github.com/user-attachments/assets/2e38a19e-e100-48db-a3b1-9c0fd193c044)
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+Criar algo “natty” (natural, autêntico e genuíno) com inteligência artificial (IA) é um desafio fascinante. A IA, por sua natureza, é baseada em algoritmos e dados, e muitas vezes produz resultados previsíveis. No entanto, alcançar autenticidade e naturalidade requer uma abordagem mais criativa e humana.
 
 ## Links Interessantes
 
