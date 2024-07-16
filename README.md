@@ -17,24 +17,21 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
     3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
 1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
 
-### Template
-
-```markdown
-# Nova Logo DIO ;)
+# Nova Logo DIO
 
 ## 📒 Descrição
-Uma atualização da logo da DIO
+Nova versão da logo da DIO
 
 ## 🤖 Tecnologias Utilizadas
 Utilizei o Copilot do windows 11 que utilizou a plataforma DALL-E 3
 
 ## 🧐 Processo de Criação
-Solicitei a IA que gerasse uma nova logo marca para a DIO usando como referencia linguagens de programação.
+Solicitei a IA que gerasse uma nova logo para a DIO usando como referência linguagens de programação.
 
 ## 🚀 Resultados
 [Nova Logo DIO](https://github.com/rflombardi/lab-natty-or-not_rflombardi/blob/main/Logo%20DIO.png)
 
-## 💭 Reflexão (Opcional)
+## 💭 Reflexão
 Criar algo “natty” (natural, autêntico e genuíno) com inteligência artificial (IA) é um desafio fascinante. A IA, por sua natureza, é baseada em algoritmos e dados, e muitas vezes produz resultados previsíveis. No entanto, alcançar autenticidade e naturalidade requer uma abordagem mais criativa e humana.
 
 ## Links Interessantes
